@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @adipraj17
 - 🌱 I’m currently learning Java, Swift, C++, and Javascript
 - ⚽️ ⛷🏂🏊🏾‍♀🏌🏿‍♂🥾🎮My hobbies include Soccer, Skiing, Snowboarding, Hiking, and Videogames
-- ⚽️ JVA
-- ⚽️ FC Stars East Blue
+- ⚽️ JVA No. 6
+- ⚽️ FC Stars East Blue No. 24
 - 🤖 Robotics Team 2876
 <!---
 adipraj17/adipraj17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
